@@ -1,5 +1,5 @@
 # CODSOFT
-To-Do List Application in Python
+# TASK-1 : To-Do List Application in Python
 This is a simple Python-based To-Do List application that allows users to manage tasks effectively. The application provides a clean interface to:
 
 **Add new tasks:** Users can input tasks they need to complete.
