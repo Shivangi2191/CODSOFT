@@ -58,6 +58,52 @@ With just a few lines of code, the script takes user input, generates a password
 
 
 
+# TASK-3 : Rock-Paper-Scissors Game 🎮
+A simple Python implementation of the classic Rock-Paper-Scissors game that you can play against the computer. The game is interactive, user-friendly, and includes features like score tracking and multiple rounds.
+
+
+**Features:**
+
+**User Input:** The user can choose between rock, paper, or scissors.
+
+**Computer Selection:** The computer makes a random choice for every round.
+
+**Game Logic:**
+
+Rock beats Scissors 🪨✂️
+
+Scissors beat Paper ✂️📄
+
+Paper beats Rock 📄🪨
+
+**Result Display:**
+The game shows the user's choice, computer's choice, and the result (win, lose, or tie).
+
+**Score Tracking:**
+Keeps track of the user's and computer's scores across multiple rounds.
+
+**Play Again Option:** The user can decide to continue playing or quit after each round.
+
+**User-Friendly Interface:** Clear instructions and feedback make the game easy and fun to play
+
+**How to Play :**
+When prompted, type rock, paper, or scissors to make your choice.
+
+The computer will also make a random choice.
+
+The game will determine the winner based on the rules:
+Rock beats Scissors.
+Scissors beat Paper.
+Paper beats Rock.
+
+The result will be displayed, along with the current scores.
+
+Choose whether to play another round or quit the game.
+
+
+
+
+
 
 
 
